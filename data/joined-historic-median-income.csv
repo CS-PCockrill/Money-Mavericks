@@ -1,7 +1,7 @@
 DATE,Median Income,State
-2000-01-01,46853,arkansas
-2001-01-01,51143,arkansas
-2002-01-01,48911,arkansas
+2000-01-01,46853,Arkansas
+2001-01-01,51143,Arkansas
+2002-01-01,48911,Arkansas
 2003-01-01,47257,arkansas
 2004-01-01,50301,arkansas
 2005-01-01,50981,arkansas
@@ -179,26 +179,26 @@ DATE,Median Income,State
 2017-01-01,72913,illinois
 2018-01-01,75684,illinois
 2019-01-01,78845,illinois
-2000-01-01,66248,unitedstates
-2001-01-01,64779,unitedstates
-2002-01-01,64047,unitedstates
-2003-01-01,63967,unitedstates
-2004-01-01,63745,unitedstates
-2005-01-01,64427,unitedstates
-2006-01-01,64930,unitedstates
-2007-01-01,65801,unitedstates
-2008-01-01,63455,unitedstates
-2009-01-01,63011,unitedstates
-2010-01-01,61364,unitedstates
-2011-01-01,60428,unitedstates
-2012-01-01,60313,unitedstates
-2013-01-01,62425,unitedstates
-2014-01-01,61468,unitedstates
-2015-01-01,64631,unitedstates
-2016-01-01,66657,unitedstates
-2017-01-01,67571,unitedstates
-2018-01-01,68168,unitedstates
-2019-01-01,72808,unitedstates
+2000-01-01,66248,united states
+2001-01-01,64779,united states
+2002-01-01,64047,united states
+2003-01-01,63967,united states
+2004-01-01,63745,united states
+2005-01-01,64427,united states
+2006-01-01,64930,united states
+2007-01-01,65801,united states
+2008-01-01,63455,united states
+2009-01-01,63011,united states
+2010-01-01,61364,united states
+2011-01-01,60428,united states
+2012-01-01,60313,united states
+2013-01-01,62425,united states
+2014-01-01,61468,united states
+2015-01-01,64631,united states
+2016-01-01,66657,united states
+2017-01-01,67571,united states
+2018-01-01,68168,united states
+2019-01-01,72808,united states
 2000-01-01,71149,missouri
 2001-01-01,63415,missouri
 2002-01-01,64601,missouri
@@ -239,26 +239,26 @@ DATE,Median Income,State
 2017-01-01,62889,kansas
 2018-01-01,68987,kansas
 2019-01-01,77523,kansas
-2000-01-01,80346,newhampshire
-2001-01-01,78743,newhampshire
-2002-01-01,83547,newhampshire
-2003-01-01,82055,newhampshire
-2004-01-01,81691,newhampshire
-2005-01-01,79249,newhampshire
-2006-01-01,83477,newhampshire
-2007-01-01,88519,newhampshire
-2008-01-01,83478,newhampshire
-2009-01-01,81181,newhampshire
-2010-01-01,82979,newhampshire
-2011-01-01,79534,newhampshire
-2012-01-01,80177,newhampshire
-2013-01-01,80498,newhampshire
-2014-01-01,84081,newhampshire
-2015-01-01,86541,newhampshire
-2016-01-01,86100,newhampshire
-2017-01-01,83591,newhampshire
-2018-01-01,87769,newhampshire
-2019-01-01,92093,newhampshire
+2000-01-01,80346,new hampshire
+2001-01-01,78743,new hampshire
+2002-01-01,83547,new hampshire
+2003-01-01,82055,new hampshire
+2004-01-01,81691,new hampshire
+2005-01-01,79249,new hampshire
+2006-01-01,83477,new hampshire
+2007-01-01,88519,new hampshire
+2008-01-01,83478,new hampshire
+2009-01-01,81181,new hampshire
+2010-01-01,82979,new hampshire
+2011-01-01,79534,new hampshire
+2012-01-01,80177,new hampshire
+2013-01-01,80498,new hampshire
+2014-01-01,84081,new hampshire
+2015-01-01,86541,new hampshire
+2016-01-01,86100,new hampshire
+2017-01-01,83591,new hampshire
+2018-01-01,87769,new hampshire
+2019-01-01,92093,new hampshire
 2000-01-01,37266,maine
 2001-01-01,36612,maine
 2002-01-01,36853,maine
@@ -279,26 +279,26 @@ DATE,Median Income,State
 2017-01-01,53316,maine
 2018-01-01,58663,maine
 2019-01-01,66546,maine
-2000-01-01,57547,southdakota
-2001-01-01,60856,southdakota
-2002-01-01,57197,southdakota
-2003-01-01,58362,southdakota
-2004-01-01,59105,southdakota
-2005-01-01,60011,southdakota
-2006-01-01,61193,southdakota
-2007-01-01,60804,southdakota
-2008-01-01,65091,southdakota
-2009-01-01,58009,southdakota
-2010-01-01,56478,southdakota
-2011-01-01,57011,southdakota
-2012-01-01,58420,southdakota
-2013-01-01,62224,southdakota
-2014-01-01,60776,southdakota
-2015-01-01,62972,southdakota
-2016-01-01,64863,southdakota
-2017-01-01,62905,southdakota
-2018-01-01,64158,southdakota
-2019-01-01,68095,southdakota
+2000-01-01,57547,south dakota
+2001-01-01,60856,south dakota
+2002-01-01,57197,south dakota
+2003-01-01,58362,south dakota
+2004-01-01,59105,south dakota
+2005-01-01,60011,south dakota
+2006-01-01,61193,south dakota
+2007-01-01,60804,south dakota
+2008-01-01,65091,south dakota
+2009-01-01,58009,south dakota
+2010-01-01,56478,south dakota
+2011-01-01,57011,south dakota
+2012-01-01,58420,south dakota
+2013-01-01,62224,south dakota
+2014-01-01,60776,south dakota
+2015-01-01,62972,south dakota
+2016-01-01,64863,south dakota
+2017-01-01,62905,south dakota
+2018-01-01,64158,south dakota
+2019-01-01,68095,south dakota
 2000-01-01,66541,pennsylvania
 2001-01-01,66729,pennsylvania
 2002-01-01,64181,pennsylvania
@@ -319,26 +319,26 @@ DATE,Median Income,State
 2017-01-01,67736,pennsylvania
 2018-01-01,69619,pennsylvania
 2019-01-01,74800,pennsylvania
-2000-01-01,64282,newyork
-2001-01-01,64604,newyork
-2002-01-01,63378,newyork
-2003-01-01,63184,newyork
-2004-01-01,64198,newyork
-2005-01-01,65609,newyork
-2006-01-01,64958,newyork
-2007-01-01,64112,newyork
-2008-01-01,63655,newyork
-2009-01-01,63567,newyork
-2010-01-01,61993,newyork
-2011-01-01,61131,newyork
-2012-01-01,56368,newyork
-2013-01-01,58209,newyork
-2014-01-01,62216,newyork
-2015-01-01,66334,newyork
-2016-01-01,69364,newyork
-2017-01-01,68021,newyork
-2018-01-01,72586,newyork
-2019-01-01,76149,newyork
+2000-01-01,64282,new york
+2001-01-01,64604,new york
+2002-01-01,63378,new york
+2003-01-01,63184,new york
+2004-01-01,64198,new york
+2005-01-01,65609,new york
+2006-01-01,64958,new york
+2007-01-01,64112,new york
+2008-01-01,63655,new york
+2009-01-01,63567,new york
+2010-01-01,61993,new york
+2011-01-01,61131,new york
+2012-01-01,56368,new york
+2013-01-01,58209,new york
+2014-01-01,62216,new york
+2015-01-01,66334,new york
+2016-01-01,69364,new york
+2017-01-01,68021,new york
+2018-01-01,72586,new york
+2019-01-01,76149,new york
 2000-01-01,75020,utah
 2001-01-01,72624,utah
 2002-01-01,72281,utah
@@ -399,26 +399,26 @@ DATE,Median Income,State
 2017-01-01,64953,indiana
 2018-01-01,64621,indiana
 2019-01-01,70679,indiana
-2000-01-01,79524,newjersey
-2001-01-01,79418,newjersey
-2002-01-01,82410,newjersey
-2003-01-01,82761,newjersey
-2004-01-01,79476,newjersey
-2005-01-01,88128,newjersey
-2006-01-01,91680,newjersey
-2007-01-01,79260,newjersey
-2008-01-01,82381,newjersey
-2009-01-01,81999,newjersey
-2010-01-01,78415,newjersey
-2011-01-01,75258,newjersey
-2012-01-01,78845,newjersey
-2013-01-01,74271,newjersey
-2014-01-01,74740,newjersey
-2015-01-01,78173,newjersey
-2016-01-01,77303,newjersey
-2017-01-01,78739,newjersey
-2018-01-01,80033,newjersey
-2019-01-01,92969,newjersey
+2000-01-01,79524,new jersey
+2001-01-01,79418,new jersey
+2002-01-01,82410,new jersey
+2003-01-01,82761,new jersey
+2004-01-01,79476,new jersey
+2005-01-01,88128,new jersey
+2006-01-01,91680,new jersey
+2007-01-01,79260,new jersey
+2008-01-01,82381,new jersey
+2009-01-01,81999,new jersey
+2010-01-01,78415,new jersey
+2011-01-01,75258,new jersey
+2012-01-01,78845,new jersey
+2013-01-01,74271,new jersey
+2014-01-01,74740,new jersey
+2015-01-01,78173,new jersey
+2016-01-01,77303,new jersey
+2017-01-01,78739,new jersey
+2018-01-01,80033,new jersey
+2019-01-01,92969,new jersey
 2000-01-01,81324,hawaii
 2001-01-01,72773,hawaii
 2002-01-01,71438,hawaii
@@ -499,26 +499,26 @@ DATE,Median Income,State
 2017-01-01,77341,minnesota
 2018-01-01,77488,minnesota
 2019-01-01,86292,minnesota
-2000-01-01,55366,newmexico
-2001-01-01,50813,newmexico
-2002-01-01,53548,newmexico
-2003-01-01,51839,newmexico
-2004-01-01,56884,newmexico
-2005-01-01,54165,newmexico
-2006-01-01,53920,newmexico
-2007-01-01,58103,newmexico
-2008-01-01,53110,newmexico
-2009-01-01,55118,newmexico
-2010-01-01,56206,newmexico
-2011-01-01,50683,newmexico
-2012-01-01,51337,newmexico
-2013-01-01,46792,newmexico
-2014-01-01,53482,newmexico
-2015-01-01,51598,newmexico
-2016-01-01,54703,newmexico
-2017-01-01,50401,newmexico
-2018-01-01,52096,newmexico
-2019-01-01,56287,newmexico
+2000-01-01,55366,new mexico
+2001-01-01,50813,new mexico
+2002-01-01,53548,new mexico
+2003-01-01,51839,new mexico
+2004-01-01,56884,new mexico
+2005-01-01,54165,new mexico
+2006-01-01,53920,new mexico
+2007-01-01,58103,new mexico
+2008-01-01,53110,new mexico
+2009-01-01,55118,new mexico
+2010-01-01,56206,new mexico
+2011-01-01,50683,new mexico
+2012-01-01,51337,new mexico
+2013-01-01,46792,new mexico
+2014-01-01,53482,new mexico
+2015-01-01,51598,new mexico
+2016-01-01,54703,new mexico
+2017-01-01,50401,new mexico
+2018-01-01,52096,new mexico
+2019-01-01,56287,new mexico
 2000-01-01,79461,delaware
 2001-01-01,76091,delaware
 2002-01-01,74982,delaware
@@ -539,26 +539,26 @@ DATE,Median Income,State
 2017-01-01,71799,delaware
 2018-01-01,70145,delaware
 2019-01-01,78628,delaware
-2000-01-01,56791,northdakota
-2001-01-01,54907,northdakota
-2002-01-01,54670,northdakota
-2003-01-01,59673,northdakota
-2004-01-01,56392,northdakota
-2005-01-01,58678,northdakota
-2006-01-01,55293,northdakota
-2007-01-01,61835,northdakota
-2008-01-01,62608,northdakota
-2009-01-01,63388,northdakota
-2010-01-01,63519,northdakota
-2011-01-01,68042,northdakota
-2012-01-01,65928,northdakota
-2013-01-01,68910,northdakota
-2014-01-01,69570,northdakota
-2015-01-01,65659,northdakota
-2016-01-01,67950,northdakota
-2017-01-01,66500,northdakota
-2018-01-01,71756,northdakota
-2019-01-01,74216,northdakota
+2000-01-01,56791,north dakota
+2001-01-01,54907,north dakota
+2002-01-01,54670,north dakota
+2003-01-01,59673,north dakota
+2004-01-01,56392,north dakota
+2005-01-01,58678,north dakota
+2006-01-01,55293,north dakota
+2007-01-01,61835,north dakota
+2008-01-01,62608,north dakota
+2009-01-01,63388,north dakota
+2010-01-01,63519,north dakota
+2011-01-01,68042,north dakota
+2012-01-01,65928,north dakota
+2013-01-01,68910,north dakota
+2014-01-01,69570,north dakota
+2015-01-01,65659,north dakota
+2016-01-01,67950,north dakota
+2017-01-01,66500,north dakota
+2018-01-01,71756,north dakota
+2019-01-01,74216,north dakota
 2000-01-01,65869,nebraska
 2001-01-01,66900,nebraska
 2002-01-01,64631,nebraska
@@ -579,26 +579,26 @@ DATE,Median Income,State
 2017-01-01,65855,nebraska
 2018-01-01,72911,nebraska
 2019-01-01,77437,nebraska
-2000-01-01,60453,northcarolina
-2001-01-01,58541,northcarolina
-2002-01-01,55146,northcarolina
-2003-01-01,55049,northcarolina
-2004-01-01,57856,northcarolina
-2005-01-01,58488,northcarolina
-2006-01-01,53609,northcarolina
-2007-01-01,56998,northcarolina
-2008-01-01,54155,northcarolina
-2009-01-01,53047,northcarolina
-2010-01-01,54582,northcarolina
-2011-01-01,54575,northcarolina
-2012-01-01,49125,northcarolina
-2013-01-01,53981,northcarolina
-2014-01-01,53594,northcarolina
-2015-01-01,58091,northcarolina
-2016-01-01,60701,northcarolina
-2017-01-01,54762,northcarolina
-2018-01-01,57583,northcarolina
-2019-01-01,64814,northcarolina
+2000-01-01,60453,north carolina
+2001-01-01,58541,north carolina
+2002-01-01,55146,north carolina
+2003-01-01,55049,north carolina
+2004-01-01,57856,north carolina
+2005-01-01,58488,north carolina
+2006-01-01,53609,north carolina
+2007-01-01,56998,north carolina
+2008-01-01,54155,north carolina
+2009-01-01,53047,north carolina
+2010-01-01,54582,north carolina
+2011-01-01,54575,north carolina
+2012-01-01,49125,north carolina
+2013-01-01,53981,north carolina
+2014-01-01,53594,north carolina
+2015-01-01,58091,north carolina
+2016-01-01,60701,north carolina
+2017-01-01,54762,north carolina
+2018-01-01,57583,north carolina
+2019-01-01,64814,north carolina
 2000-01-01,30718,louisiana
 2001-01-01,33322,louisiana
 2002-01-01,34008,louisiana
@@ -819,26 +819,26 @@ DATE,Median Income,State
 2017-01-01,82125,connecticut
 2018-01-01,78561,connecticut
 2019-01-01,92507,connecticut
-2000-01-01,66574,rhodeisland
-2001-01-01,70140,rhodeisland
-2002-01-01,64059,rhodeisland
-2003-01-01,66024,rhodeisland
-2004-01-01,68923,rhodeisland
-2005-01-01,68819,rhodeisland
-2006-01-01,72386,rhodeisland
-2007-01-01,71010,rhodeisland
-2008-01-01,67161,rhodeisland
-2009-01-01,65362,rhodeisland
-2010-01-01,64287,rhodeisland
-2011-01-01,59196,rhodeisland
-2012-01-01,66281,rhodeisland
-2013-01-01,65614,rhodeisland
-2014-01-01,67168,rhodeisland
-2015-01-01,63699,rhodeisland
-2016-01-01,69467,rhodeisland
-2017-01-01,72285,rhodeisland
-2018-01-01,67183,rhodeisland
-2019-01-01,74344,rhodeisland
+2000-01-01,66574,rhode island
+2001-01-01,70140,rhode island
+2002-01-01,64059,rhode island
+2003-01-01,66024,rhode island
+2004-01-01,68923,rhode island
+2005-01-01,68819,rhode island
+2006-01-01,72386,rhode island
+2007-01-01,71010,rhode island
+2008-01-01,67161,rhode island
+2009-01-01,65362,rhode island
+2010-01-01,64287,rhode island
+2011-01-01,59196,rhode island
+2012-01-01,66281,rhode island
+2013-01-01,65614,rhode island
+2014-01-01,67168,rhode island
+2015-01-01,63699,rhode island
+2016-01-01,69467,rhode island
+2017-01-01,72285,rhode island
+2018-01-01,67183,rhode island
+2019-01-01,74344,rhode island
 2000-01-01,34096,tennessee
 2001-01-01,35783,tennessee
 2002-01-01,37030,tennessee
@@ -859,26 +859,26 @@ DATE,Median Income,State
 2017-01-01,55306,tennessee
 2018-01-01,56060,tennessee
 2019-01-01,56627,tennessee
-2000-01-01,46402,westvirginia
-2001-01-01,45519,westvirginia
-2002-01-01,44339,westvirginia
-2003-01-01,48381,westvirginia
-2004-01-01,47985,westvirginia
-2005-01-01,50685,westvirginia
-2006-01-01,51753,westvirginia
-2007-01-01,55136,westvirginia
-2008-01-01,47928,westvirginia
-2009-01-01,51255,westvirginia
-2010-01-01,53271,westvirginia
-2011-01-01,50489,westvirginia
-2012-01-01,51489,westvirginia
-2013-01-01,50174,westvirginia
-2014-01-01,45309,westvirginia
-2015-01-01,48973,westvirginia
-2016-01-01,50077,westvirginia
-2017-01-01,51900,westvirginia
-2018-01-01,54566,westvirginia
-2019-01-01,56916,westvirginia
+2000-01-01,46402,west virginia
+2001-01-01,45519,west virginia
+2002-01-01,44339,west virginia
+2003-01-01,48381,west virginia
+2004-01-01,47985,west virginia
+2005-01-01,50685,west virginia
+2006-01-01,51753,west virginia
+2007-01-01,55136,west virginia
+2008-01-01,47928,west virginia
+2009-01-01,51255,west virginia
+2010-01-01,53271,west virginia
+2011-01-01,50489,west virginia
+2012-01-01,51489,west virginia
+2013-01-01,50174,west virginia
+2014-01-01,45309,west virginia
+2015-01-01,48973,west virginia
+2016-01-01,50077,west virginia
+2017-01-01,51900,west virginia
+2018-01-01,54566,west virginia
+2019-01-01,56916,west virginia
 2000-01-01,60913,texas
 2001-01-01,62680,texas
 2002-01-01,60634,texas
@@ -899,26 +899,26 @@ DATE,Median Income,State
 2017-01-01,66417,texas
 2018-01-01,64506,texas
 2019-01-01,71474,texas
-2000-01-01,59274,southcarolina
-2001-01-01,57888,southcarolina
-2002-01-01,57104,southcarolina
-2003-01-01,56821,southcarolina
-2004-01-01,55631,southcarolina
-2005-01-01,55949,southcarolina
-2006-01-01,53367,southcarolina
-2007-01-01,57915,southcarolina
-2008-01-01,53177,southcarolina
-2009-01-01,52028,southcarolina
-2010-01-01,51927,southcarolina
-2011-01-01,48392,southcarolina
-2012-01-01,52492,southcarolina
-2013-01-01,50749,southcarolina
-2014-01-01,51469,southcarolina
-2015-01-01,53017,southcarolina
-2016-01-01,61347,southcarolina
-2017-01-01,60278,southcarolina
-2018-01-01,61980,southcarolina
-2019-01-01,65735,southcarolina
+2000-01-01,59274,south carolina
+2001-01-01,57888,south carolina
+2002-01-01,57104,south carolina
+2003-01-01,56821,south carolina
+2004-01-01,55631,south carolina
+2005-01-01,55949,south carolina
+2006-01-01,53367,south carolina
+2007-01-01,57915,south carolina
+2008-01-01,53177,south carolina
+2009-01-01,52028,south carolina
+2010-01-01,51927,south carolina
+2011-01-01,48392,south carolina
+2012-01-01,52492,south carolina
+2013-01-01,50749,south carolina
+2014-01-01,51469,south carolina
+2015-01-01,53017,south carolina
+2016-01-01,61347,south carolina
+2017-01-01,60278,south carolina
+2018-01-01,61980,south carolina
+2019-01-01,65735,south carolina
 2000-01-01,57215,kentucky
 2001-01-01,58963,kentucky
 2002-01-01,55519,kentucky
