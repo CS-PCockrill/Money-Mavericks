@@ -15,3 +15,13 @@ Our goal is to analyze income insecurity in the United States and determine whet
 	
 ### **Datasets**
 In order to analyze income insecurity around the country we first need to understand the underlying factors such as education, unemployment, and SNAP participation by state. With that said, we will begin with the Department of Education’s (DoE) funding which is publicly available on their website. Secondly, we will source unemployment data from various sources beginning with Statista’s unemployment by state. Education and unemployment will provide us with a baseline to evaluate how it relates to statewide SNAP participation.
+
+### **Quickstart**
+
+Ensure that python3 is downloaded and available. Then, in the command line terminal, install via pip all requirements for the file:
+
+```
+pip install -r requirements.txt
+```
+
+Once this is completed, you will be able to open up any of the notebooks in Jupyter to run them as per usual.
